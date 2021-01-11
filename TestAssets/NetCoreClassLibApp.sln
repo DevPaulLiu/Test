@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30524.109
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreConsoleApp", "NetCoreConsoleApp\NetCoreConsoleApp.csproj", "{7EE816D4-84F0-4310-A865-DD02F569F38F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreClassLibApp", "NetCoreClassLibApp\NetCoreClassLibApp.csproj", "{F11FE969-5C04-49F2-A7A1-811D45E3F4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE816D4-84F0-4310-A865-DD02F569F38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE816D4-84F0-4310-A865-DD02F569F38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE816D4-84F0-4310-A865-DD02F569F38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE816D4-84F0-4310-A865-DD02F569F38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11FE969-5C04-49F2-A7A1-811D45E3F4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11FE969-5C04-49F2-A7A1-811D45E3F4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11FE969-5C04-49F2-A7A1-811D45E3F4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11FE969-5C04-49F2-A7A1-811D45E3F4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F442B865-31C9-4567-B79A-B1F7DAAEC8A3}
+	EndGlobalSection
+EndGlobal
